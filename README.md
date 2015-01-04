@@ -16,7 +16,7 @@ To use **kopi** as a command-line tool, it is preferable to install it globally.
 
 ### Usage
 
-Using **kopi** is simple, from inside a `git` or `mercurial` repo:
+Using **kopi** is simple, from your console/terminal:
 
     kopi [options] <file>
 
@@ -34,7 +34,7 @@ Output usage information.
 
 ##### version (`-V`,`--version`)
 
-Output **kopi**' version number.
+Output **kopi**'s version number.
 
 ##### verbose (`-v`,`--verbose`)
 
